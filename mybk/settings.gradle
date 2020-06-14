@@ -1,0 +1,5 @@
+include ':mybk-compiler'
+include ':mybksdk'
+include ':mybk-annotation'
+include ':app'
+rootProject.name = "mybutterknife"
